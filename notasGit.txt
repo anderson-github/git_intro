@@ -1,0 +1,2 @@
+Los comandos mas utiles son:
+- Git init utilizado para crear un repositorio
